@@ -9,4 +9,5 @@ Trading bot + price tracking(free).
 4. If you enjoy it, leave a star and watch ^_-
 # Change log
 - version 1.1 [release]
+# IF YOU HAVE ANY TROUBLES/FIND BUG WITH PROGRAM, YOU CAN DM ME: r1ghtl3ftwork@gmail.com
 
